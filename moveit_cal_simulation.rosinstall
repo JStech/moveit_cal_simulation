@@ -1,6 +1,6 @@
 - git:
     local-name: franka_ros
-    uri: git@github.com:JStech/franka_ros.git
+    uri: https://github.com/JStech/franka_ros.git
     version: handeye
 - git:
     local-name: geometric_shapes
@@ -12,14 +12,11 @@
     version: master
 - git:
     local-name: moveit_calibration
-    uri: git@github.com:ros-planning/moveit_calibration.git
+    uri: https://github.com/ros-planning/moveit_calibration.git
+    version: master
 - git:
     local-name: moveit_msgs
     uri: https://github.com/ros-planning/moveit_msgs.git
-    version: master
-- git:
-    local-name: moveit_tutorials
-    uri: https://github.com/ros-planning/moveit_tutorials.git
     version: master
 - git:
     local-name: moveit_visual_tools
