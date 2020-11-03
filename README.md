@@ -39,4 +39,4 @@ Configure and build:
     catkin build
     roslaunch panda_moveit_config demo_gazebo.launch
 
-From there, follow [the tutorial](https://github.com/JStech/moveit_tutorials/blob/new-calibration-tutorial/doc/hand_eye_calibration/hand_eye_calibration_tutorial.rst).
+From there, follow [the tutorial](https://ros-planning.github.io/moveit_tutorials/doc/hand_eye_calibration/hand_eye_calibration_tutorial.html).
