@@ -9,7 +9,7 @@
 - git:
     local-name: moveit
     uri: https://github.com/ros-planning/moveit.git
-    version: master
+    version: melodic-devel
 - git:
     local-name: moveit_calibration
     uri: https://github.com/ros-planning/moveit_calibration.git
@@ -21,7 +21,7 @@
 - git:
     local-name: moveit_visual_tools
     uri: https://github.com/ros-planning/moveit_visual_tools.git
-    version: master
+    version: melodic-devel
 - git:
     local-name: panda_moveit_config
     uri: https://github.com/tahsinkose/panda_moveit_config.git
