@@ -1,6 +1,11 @@
 Running MoveIt Calibration in simulation
 ========================================
 
+### Available on Docker
+If you prefer, you can skip the steps below and use the [Docker
+image](https://hub.docker.com/repository/docker/jstechschulte/moveit_calibration_simulation)
+instead.
+
 ### Avoid OpenCV 3.2
 OpenCV 3.2, which is what ships with Ubuntu 18.04, has a buggy ArUco pose detection implementation. The instructions
 below assume you have OpenCV 3.4 installed in `/usr/local/`. OpenCV 3.4 can be easily installed as follows:
